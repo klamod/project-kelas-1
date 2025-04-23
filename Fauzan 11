@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Class of 35 Grade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="x" background="bg.jpg">
+    <nav class="w">
+    </nav>
+    <header class="v">
+    </header>
+    <div class="y">
+    </div>
+    <section class="z">
+    </section>
+    <footer class="u">
+    </footer>
+</body>
+</html>
